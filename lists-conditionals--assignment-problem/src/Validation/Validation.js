@@ -1,6 +1,6 @@
 import React from 'react';
 
-const validation = () => {
+const validation = (props) => {
 
     return(
         <div>
@@ -17,3 +17,5 @@ const validation = () => {
     );
 
 }
+
+export default validation;
